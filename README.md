@@ -73,3 +73,12 @@ Acknowledgements
 
 -   **JavaScript**: Used for handling drag-and-drop logic and dynamic opacity adjustments.
 
+ Time Spent
+-------------
+
+-   **Planning and Setup**: ~0.5 hour
+-   **Core Features Development**: ~2 hours
+-   **Bonus Features and Enhancements**: ~1 hours
+-   **Documentation**: ~0.5 hours
+
+**Total**: ~ 4 hours
