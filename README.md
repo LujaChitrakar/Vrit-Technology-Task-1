@@ -2,8 +2,11 @@
 
 This project implements a Infinite Carousel System using plain HTML, CSS , and JavaScript. The cards are positioned in a 3D stack and can be dragged. As the cards are dragged, the middle card maintains maximum opacity, while the top and bottom cards opacity decreases depending on their distance from the center card.
 
-## Demo Link
+## Demo video Link
 [LINK FOR PROJECT](https://drive.google.com/file/d/1vylUYgR0c8ewtgxgcnEbP5_FQBvtAMHT/view?usp=drive_link)
+
+## Deployed website Link
+[LINK FOR PROJECT](https://vrit-technology-task-1-lujachitrakar.vercel.app/)
 
 
 ## Features
